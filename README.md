@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abibat
+- 🌱 I’m currently learning HTML, CSS, JS
+- 💞️ I’m looking to collaborate on open source
+- 📫 How to reach me abibatabdulhakeem2@gmail.com
